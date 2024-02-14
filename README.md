@@ -11,6 +11,8 @@ The reference list of the above will be updated along with the study progress; t
 
 This dataset is released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0) license.](https://creativecommons.org/licenses/by/4.0/)
 
+## NOTE
+A sample DataReader is provided in [IMU-based-HAR-benchmark](https://github.com/eno-lab/IMU-based-HAR-benchmark)
 
 ## Hardware Setup
 396 IMUs (ICM-20948):
